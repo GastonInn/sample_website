@@ -1,3 +1,5 @@
+/* --------------------------- General ---------------------------- */
+
 .single-a, .nav-spacing {
     text-decoration:none;
 }
@@ -8,4 +10,46 @@
 
 .nav-menu{
     text-align: right;
+}
+
+/* --------------------------- Index ---------------------------- */
+
+.image-link {
+    text-decoration: none;
+}
+
+.quote-index {
+    background: #d8d0d0;
+    padding: 2px 20px; 
+}
+
+/* --------------------------- Moby Dick ---------------------------- */
+
+.header-moby-dick {
+    margin: 0 0 40px;
+    text-align: center; 
+}
+
+.whale-image {
+    display: block; 
+    margin: 0 auto;
+}
+
+.book-cover-area {
+    background-color: #fafafa;
+    margin: 20px auto; 
+    padding: 30px; 
+    width: 500px; 
+}
+
+.quote-moby-dick {
+    font-size: 20px;
+    font-style: italic; 
+}
+
+.span-moby-dick-quote {
+    color: #ff0000;
+    font-size: 24px; 
+    font-style: normal; 
+    font-weight: bold; 
 }
