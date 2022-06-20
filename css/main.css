@@ -1,0 +1,11 @@
+.single-a, .nav-spacing {
+    text-decoration:none;
+}
+
+.nav-spacing {
+    margin-left: 10px; 
+}
+
+.nav-menu{
+    text-align: right;
+}
